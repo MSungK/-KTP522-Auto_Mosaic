@@ -1,0 +1,4 @@
+ultralytics
+facenet_pytorch
+onnxruntime
+PyQt5

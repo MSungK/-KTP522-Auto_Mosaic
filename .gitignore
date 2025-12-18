@@ -1,0 +1,6 @@
+*.lock
+*.key
+*.pdf
+data/*
+face_detector.py
+*.mp4
